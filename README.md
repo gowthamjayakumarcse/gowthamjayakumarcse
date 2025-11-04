@@ -19,10 +19,10 @@
 ## 🎓 About Me
 
 - 📘 **M.Tech in Artificial Intelligence and Machine Learning** – *VIT Vellore (2024–Present)*  
-- 💻 **B.E in Computer Science & Engineering** – *Loyola-ICAM College of Engineering & Technology (2020–2024)*  
+- 💻 **B.E in Computer Science & Engineering** – *Panimalar Engineering College (2020–2024)*  
 - 🔬 Passionate about **AI, Deep Learning, and Context-aware Systems**  
 - 🧠 Currently working on: **MindLens** (AI-enhanced emotional memory bank) & **SmartVision** (AI-based license recognition)  
-- 🏆 Hackathon Participant & Research-driven Innovator  
+  
 
 ---
 
@@ -42,12 +42,7 @@
 
 ### 📊 Data Science & BI
 - Tools: **Power BI**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
-- Big Data: **Apache Spark**, **Hadoop**
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
@@ -61,9 +56,14 @@
 > Automated license plate recognition system using YOLO + OCR.
 - Built with: *Python, OpenCV, TensorFlow*
 
+### 🎓 **StudyTube – AI Study Notes Generator (Opal by Google)**
+> AI-powered tool that converts YouTube videos into structured study notes, reducing manual notetaking effort by 70% and improving learning efficiency.  
+- Built with: *Opal by Google, Gemini 2.5 Flash*
+
 ### 🧾 **RiskRadar – Intelligent Document Risk Assessment**
 > NLP-based risk identification system for legal or financial documents.
 - Built with: *BERT, LangChain, Streamlit*
+
 
 ---
 
@@ -72,7 +72,7 @@
 - ⚽ **Football Captain** – Led the school football team in multiple interschool tournaments.  
 - 🥇 **Gold Medalist (Relay)** – Won first place in school-level relay competition.  
 - 🧑‍💼 **Organizer** – Coordinated and managed interschool competitions and sports events.  
-- 🥇 
+  
 
 ## 🌐 Connect With Me
 📧 **Email:** [gowthamjayakumarcs@gmail.com](mailto:gowthamjayakumarcs@gmail.com)  
@@ -82,3 +82,4 @@
 ---
 
 ### ✨ “Let’s Build AI for the Future!” 😄
+
