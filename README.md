@@ -46,21 +46,34 @@
 
 ## 🚀 Projects
 
-### 🧠 **MindLens – AI-Enhanced Memory Bank**
-> Intelligent personal memory vault that detects emotions and context from multimedia data to help users recall meaningful moments.
-- Built with: *OpenAI APIs, Streamlit, NLP pipelines, Emotion detection models*
+### 🧠 **MindLens – AI-Enhanced Memory Bank with Sentiment, Emotion & Contextual Insights** *(Guided by LTIMindtree Mentor)*
+> Designed to assist individuals with Alzheimer’s or memory loss in recalling emotional experiences, reducing manual effort by over **85%** through AI-driven, context-aware retrieval.  
+- Developed an AI-powered memory bank that analyzes **text, audio, video, and images** for:  
+  🧩 Emotion Detection (**BERT**) | 🏷️ Context Tagging (Keyword-based) | ⚠️ Suicidal Thought Detection (**LSTM**) | 💬 WhatsApp Alert | 🔍 Semantic Search (**SBERT + FAISS**)  
+- Integrated **Whisper** and **FFmpeg** for transcription, and used **RAG-based summaries (Llama 3.1)** with a **Streamlit dashboard** for mental health monitoring.  
+- **Tools Used:** *BERT, Sentence-BERT (SBERT), FAISS, Whisper, FFmpeg, Llama 3.1 (8B Instruct), Streamlit, Python, Hugging Face Transformers*
 
-### 🚘 **SmartVision – AI-Powered Vehicle License Recognition**
-> Automated license plate recognition system using YOLO + OCR.
-- Built with: *Python, OpenCV, TensorFlow*
+---
 
-### 🎓 **StudyTube – AI Study Notes Generator (Opal by Google)**
-> AI-powered tool that converts YouTube videos into structured study notes, reducing manual notetaking effort by 70% and improving learning efficiency.  
-- Built with: *Opal by Google, Gemini 2.5 Flash*
+### 🚘 **SmartVision – AI-Powered Vehicle License Recognition System**
+> Achieved over **90% detection accuracy** with stable recognition across images and video streams.  
+- Developed an AI-based system for vehicle plate detection using **YOLOv8** and **EasyOCR**, supporting image/video inputs with a **Streamlit interface**.  
+- Integrated **OpenCV preprocessing**, plate format validation, and stabilized text tracking for real-time accuracy.  
+- **Tools Used:** *YOLOv8, EasyOCR, OpenCV, Streamlit, Python*
+
+---
 
 ### 🧾 **RiskRadar – Intelligent Document Risk Assessment**
-> NLP-based risk identification system for legal or financial documents.
-- Built with: *BERT, LangChain, Streamlit*
+> Decreased manual legal review effort by over **70%** through automated clause analysis and risk scoring.  
+- Developed a **Streamlit app** using **Gemini AI** to analyze PDF agreements, detect legal and privacy risks, and visualize results with interactive risk scoring.  
+- **Tools Used:** *Python, Streamlit, Google Generative AI (Gemini 1.5 Pro), PyPDF2, Plotly, NumPy*
+
+---
+
+### 🎓 **StudyTube – AI Study Notes Generator (Opal by Google)**
+> AI-powered tool that converts YouTube videos into structured study notes, reducing manual note-taking effort by **70%** and improving learning efficiency.  
+- Built a **Google Opal app** leveraging **Gemini 2.5 Flash** for transcript summarization and note structuring.  
+- **Tools Used:** *Opal by Google, Gemini 2.5 Flash*
 
 
 ---
@@ -80,5 +93,6 @@
 ---
 
 ### ✨ “Let’s Build AI for the Future!” 😄
+
 
 
